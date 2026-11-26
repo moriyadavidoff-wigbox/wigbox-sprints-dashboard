@@ -1,0 +1,9 @@
+{
+  "name": "wigbox-sprint-dashboard",
+  "private": true,
+  "type": "module",
+  "description": "WIGBOX sprint dashboard: live from Zoho Sprints, sign-in with Google for wigbox.co.il only",
+  "engines": {
+    "node": ">=18"
+  }
+}
